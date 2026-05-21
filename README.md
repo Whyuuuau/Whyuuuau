@@ -1,40 +1,56 @@
-# Hi there, I'm Wahyu Agung Utomo 👋
+# 👨‍💻 Wahyu Agung Utomo
 
-**Fullstack Developer | AI & Deep Learning Enthusiast | Tech Explorer**
+> *Bridging the gap between scalable software engineering, data analysis, and artificial intelligence. Passionate about building impactful solutions, from robust microservices to deep learning models.*
 
-Welcome to my GitHub profile! I am a passionate developer with a strong focus on building scalable web applications, microservices architecture, and exploring the potential of Artificial Intelligence. 
+### 🚀 What I'm Up To
 
-### 👨‍💻 About Me
-
-- 💼 **Current Role:** Fullstack Developer at **PT Mitra Integrasi Informatika (MII)**.
-- 🎓 **Education:** Informatics Engineering Alumni from **Politeknik Negeri Jakarta**.
-- 🧠 **Focus Areas:** Deep Learning, Microservices, and Algorithm Optimization.
-- 🏆 **Certifications:** Web Developer (BNSP) & Software Engineering Java (NIIT).
-- 📈 **Beyond Coding:** Co-founder of Goldast Capital, algorithmic trader, and crypto bot developer.
+- 🏢 **Building At Scale:** Currently architecting microservices and core features (such as learning path builders and API gateway routing) for the Metrodata Academy platform at **PT Mitra Integrasi Informatika**.
+- 🤖 **Exploring AI:** Developing **SleepWell**, a deep learning tool for sleep apnea detection in collaboration with the Neurology Department of RSCM.
+- 📈 **Algorithmic Trading:** Engineering spread-capture bots and market-making strategies on crypto platforms using LSTM models.
+- ✍️ **Writing:** Co-authored chapters for the e-book *"Quarter-Life Reset"*, sharing insights on navigating career, life, and personal growth.
 
 ---
 
-### 🚀 Featured Work
+### 🛠️ Technical Arsenal
 
-*   **Metrodata Academy Platform:** Contributed to a microservices-based training management platform at MII, developing core features like learning path builders, attendance systems, and API gateway routing.
-*   **SleepWell:** A Deep Learning application designed for Sleep Apnea detection, built in collaboration with the Neurology Department of RSCM.
-*   **Algorithmic Trading Bots:** Developing spread-capture bots and market-making strategies using LSTM models.
+**Backend & Architecture**
+<kbd>Java</kbd> • <kbd>Spring Boot</kbd> • <kbd>Express</kbd> • <kbd>Microservices</kbd> • <kbd>REST API</kbd>
+
+**Frontend**
+<kbd>JavaScript</kbd> • <kbd>React JS</kbd> 
+
+**AI & Data**
+<kbd>Python</kbd> • <kbd>TensorFlow</kbd> • <kbd>Deep Learning</kbd> • <kbd>SQL</kbd>
+
+**Infrastructure & Tools**
+<kbd>Docker</kbd> • <kbd>Git</kbd> • <kbd>Linux</kbd>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 📂 Featured Projects & Leadership
+*Click to expand!*
 
-*   **Languages:** Java, Python, JavaScript, SQL
-*   **Backend & Architecture:** Spring Boot, Express, Microservices, RESTful APIs
-*   **Frontend:** React JS
-*   **AI & Data:** TensorFlow, Machine Learning, Deep Learning
-*   **DevOps & Tools:** Docker, Git, Linux
+<details>
+  <summary><b>🎓 Metrodata Academy Platform</b></summary>
+  <br>
+  Contributed to a microservices-based training management platform. Implemented critical features including learning path builders, comprehensive attendance systems, and API gateway routing to ensure scalable service delivery.
+</details>
+
+<details>
+  <summary><b>🏥 SleepWell (Deep Learning Application)</b></summary>
+  <br>
+  A specialized AI application utilizing deep learning to detect sleep apnea, developed closely with medical professionals at RSCM to bridge technology and healthcare.
+</details>
+
+<details>
+  <summary><b>👥 Bangkit Academy & Community Building</b></summary>
+  <br>
+  Served as a <b>Team Lead for the Mobile Developer Cohort</b> at Bangkit Academy 2023. Additionally, co-founded Goldast Capital, growing a trading and market analysis community to over 3,300 active members.
+</details>
 
 ---
 
 ### 📫 Let's Connect
 
-Feel free to reach out for collaborations, tech discussions, or career opportunities!
-
-*   **LinkedIn:** [linkedin.com/in/whyuuuau](https://www.linkedin.com/in/whyuuuau/)
-*   **Email:** [whyuuuuau@gmail.com](mailto:whyuuuuau@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whyuuuau/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:whyuuuuau@gmail.com)
